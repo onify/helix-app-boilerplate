@@ -6,14 +6,13 @@
 
 Some of the following steps will require a **Github Personal Access Token** (see `<ONIFY_GITHUB_ACCESS_TOKEN>`). If you need more details, please send a request to support@onify.co.
 
-## Download helix-app resources
+## Setup 
 
-To download the `helix-app` template onto your machine, run the command:
+To download and setup the `helix-app` repo onto your machine, run the command:
 
-> IMPORTANT: When you the following command, everhting in this folder will be overwritten!
+> IMPORTANT: Make sure you are in the correct folder files will be overwritten.
 
 ```bash
-# NOTE: make sure you are running the command from the ./hub-app-boilerplate folder
 npx giget "gh:onify/helix/apps/helix-app" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force
 ```
 
