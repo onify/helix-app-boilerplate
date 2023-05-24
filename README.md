@@ -18,9 +18,3 @@ npx giget "gh:onify/helix/apps/helix-app" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>
 ```
 
 > If you haven't installed `giget` yet, you will be prompted to do so...
-
-### Troubleshooting
-
-#### 404 Not Found
-
-If you encounter the above error, this is likely related to authentication. Please make sure `<ONIFY_GITHUB_ACCESS_TOKEN>` is replaced with a valid **Github Personal Access Token** from **Onify** before running the command. If you do not have one yet please see [`Github Authentication`](#github-authentication)
