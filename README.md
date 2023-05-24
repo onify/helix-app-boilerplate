@@ -1,4 +1,4 @@
-# Boilterplate for Helix App
+# Boilerplate for Helix App
 
 ## Prepare
 
