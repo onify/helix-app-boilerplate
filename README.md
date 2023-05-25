@@ -13,7 +13,7 @@ To download and setup the `helix-app` repo onto your machine, run the command:
 > IMPORTANT: Make sure you are in the correct folder files will be overwritten.
 
 ```bash
-npx giget "gh:onify/helix/apps/helix-app" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force
+npx giget "gh:onify/helix/apps/helix-app" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force --verbose
 ```
 
 > If you haven't installed `giget` yet, you will be prompted to do so...
