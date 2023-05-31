@@ -1,6 +1,6 @@
 # Onify Helix App - Boilerplate
 
-**Please be aware that Onify Helix is currently in the early beta stages of development.**
+⚠️ **Please be aware that Onify Helix is currently in the early beta stages of development.** ⚠️
 
 As this software is not yet fully stable, users are advised to utilize Onify Helix at their own risk. We are continuously improving and refining the codebase to provide a high-quality and reliable software solution. However, as part of the development process, changes may occur rapidly and without prior notice. This could involve alterations to features, interfaces, and the overall system behavior.
 
