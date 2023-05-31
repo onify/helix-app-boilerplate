@@ -12,7 +12,7 @@ Thanks for your understanding, and for being part of our community as we develop
 
 ### Github Authentication
 
-Some of the following steps will require a **Github Personal Access Token** (see `<ONIFY_GITHUB_ACCESS_TOKEN>`). If you need more details, please send a request to support@onify.co.
+Some of the following steps will require a **Github Personal Access Token** (see `<ONIFY_GITHUB_ACCESS_TOKEN>`). Please Onify via support@onify.co to get access to Onify Helix.
 
 ## Setup 
 
