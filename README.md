@@ -10,9 +10,21 @@ Thanks for your understanding, and for being part of our community as we develop
 
 ## Prepare
 
-### Github Authentication
+### Access to Helix repo and packages
 
-Some of the following steps will require a **Github Personal Access Token** (see `<ONIFY_GITHUB_ACCESS_TOKEN>`). Please Onify via support@onify.co to get access to Onify Helix.
+To get started, you first need access to the Onify Helix repo (https://github.com/onify/helix).
+Please Onify via support@onify.co to get access to Onify Helix.
+
+Once you got access you need to create a **Github Personal Access Token** (`<ONIFY_GITHUB_ACCESS_TOKEN>`). 
+Here is what you need to do:
+
+1. Go to [Personal access tokens page](https://github.com/settings/tokens) in GitHub
+2. Click on Generate new token and [Generate new token (classic)}(https://github.com/settings/tokens/new)
+3. Set Note, eg. `Helix token`
+4. Set Expiration, eg. 90 days
+5. Select `repo` (all) and `read:packages`
+6. Click on Generate token
+7. Copy the token (this will be used as `<ONIFY_GITHUB_ACCESS_TOKEN>`)
 
 ## Setup 
 
