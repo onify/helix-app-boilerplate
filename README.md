@@ -12,7 +12,7 @@ Thanks for your understanding, and for being part of our community as we develop
 
 ### Access to Helix repo and packages
 
-To get started, you first need access to the Onify Helix repo (https://github.com/onify/helix).
+To get started, you first need access to the Onify Helix private repo (https://github.com/onify/helix).
 Please Onify via support@onify.co to get access to Onify Helix.
 
 Once you got access you need to create a **Github Personal Access Token** (`<ONIFY_GITHUB_ACCESS_TOKEN>`). 
