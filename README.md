@@ -23,7 +23,7 @@ This repo is used to get started with Onify Helix and create your own custom Hel
 6. Deploy
    1. Build Docker image
    2. Publish Docker image
-
+ 
 > NOTE: You also need Onify Hub running... dah! :-) 
 
 ## Prepare
@@ -52,3 +52,8 @@ npx giget "gh:onify/helix/apps/helix-app" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>
 ```
 
 > If you haven't installed `giget` yet, you will be prompted to do so...
+
+## Get started with Onify Blueprints
+
+To get started with Helix, please checkout our [Onify Blueprints](https://github.com/search?q=topic%3Aonify-blueprints+topic%3Ahelix+&type=repositories)
+
