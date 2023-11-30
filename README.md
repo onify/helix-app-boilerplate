@@ -1,3 +1,5 @@
+![Helix Logo](https://raw.githubusercontent.com/onify/helix/main/helix-logo.png?token=GHSAT0AAAAAACK2SSECRZ2NZE4USVHHQRRCZLIUZ5A)
+
 # Onify Helix App - Boilerplate
 
 ⚠️ NOTICE ⚠️
