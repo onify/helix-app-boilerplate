@@ -1,4 +1,4 @@
-![Helix Logo](https://raw.githubusercontent.com/onify/helix/main/helix-logo.png?token=GHSAT0AAAAAACK2SSECRZ2NZE4USVHHQRRCZLIUZ5A)
+![Helix Logo](helix-logo.png)
 
 # Onify Helix App - Boilerplate
 
