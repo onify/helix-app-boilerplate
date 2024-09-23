@@ -27,11 +27,21 @@ To download and setup the `helix-app` repo onto your machine, run the command:
 
 > IMPORTANT: Make sure you are in the correct folder files will be overwritten. Even this README :-)
 
+### Download stable version
+
+To download last stable version, first go to supportsite and check [changelog](https://support.onify.co/changelog). Get the latest version, eg. `0.30.0` and then run the following command:
+
+```bash
+npx giget "gh:onify/helix/apps/helix-app#v0.30.0" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force --verbose
+```
+
+### Download latest
+
+To download the latest (nightly build), run the following command:
+
 ```bash
 npx giget "gh:onify/helix/apps/helix-app" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force --verbose
 ```
-
-> If you haven't installed `giget` yet, you will be prompted to do so...
 
 ## Get started with Onify Blueprints
 
