@@ -29,10 +29,10 @@ To download and setup the `helix-app` repo onto your machine, run the command:
 
 ### Download stable version
 
-To download last stable version, first go to supportsite and check [changelog](https://support.onify.co/changelog). Get the latest version, eg. `0.30.0` and then run the following command:
+To download last stable version, first go to supportsite and check [changelog](https://support.onify.co/changelog). Get the latest version, eg. `1.0.0` and then run the following command:
 
 ```bash
-npx giget "gh:onify/helix/apps/helix-app#v0.30.0" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force --verbose
+npx giget "gh:onify/helix/apps/helix-app#v1.0.0" ./ --auth="<ONIFY_GITHUB_ACCESS_TOKEN>" --force --verbose
 ```
 
 ### Download latest
