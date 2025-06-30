@@ -12,8 +12,9 @@ This repo is used to get started with Onify Helix and create your own custom Hel
 2. Create your own Helix App Git repo (see Setup section)
 3. Configure your new Helix App repo (check new README for more info)
    1. Create `.npmrc` containing your GitHub personal access token
-   2. Run `npm i`
-   3. Set environment variables (in `.env`)
+   2. Update Onify Helix package versions in `package.json` (replace `"*"` with eg. `"1.0.0"`)
+   3. Run `npm i`
+   4. Set environment variables (in `.env`)
 4. Start developing (run `npm run dev`)
 5. Deploy
  
