@@ -20,7 +20,7 @@ This repo is used to get started with Onify Helix and create your own custom Hel
  
 ## Prepare
 
-To get started, you first need access to the Onify Helix private repo (https://github.com/onify/helix). Please contact Onify support (`support@onify.co`) to get you personal access token (use later as `<ONIFY_GITHUB_ACCESS_TOKEN>`).
+To get started, you first need GitHub personal access token (PAT) from Onify. Please contact Onify support (`support@onify.co`) to get you personal token (use later as `<ONIFY_GITHUB_ACCESS_TOKEN>`).
 
 ## Setup 
 
